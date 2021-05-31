@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.env.dev
+/.env.staging
+/.env.staging.db
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
