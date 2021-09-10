@@ -15,7 +15,7 @@ mccabe==0.6.1
 pylint==2.6.0
 pytz==2020.4
 six==1.15.0
-sqlparse==0.4.1
+sqlparse==0.4.2
 typed-ast==1.4.1
 wrapt==1.12.1
 asgiref==3.3.1
